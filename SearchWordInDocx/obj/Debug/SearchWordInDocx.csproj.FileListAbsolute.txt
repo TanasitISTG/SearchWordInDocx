@@ -1,0 +1,13 @@
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\bin\Debug\SearchWordInDocx.exe
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\bin\Debug\SearchWordInDocx.pdb
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\bin\Debug\Spire.Doc.xml
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\bin\Debug\Spire.Pdf.xml
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.AssemblyReference.cache
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.SuggestedBindingRedirects.cache
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.CoreCompileInputs.cache
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.Fody.CopyLocal.cache
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.csproj.CopyComplete
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.exe
+C:\Users\God_5\RiderProjects\SearchWordInDocx\SearchWordInDocx\obj\Debug\SearchWordInDocx.pdb
